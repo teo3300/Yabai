@@ -1,0 +1,35 @@
+Frame:2244
+Size: 5312 ,Base: 34240 , Ratio: 1.94 %
+
+Frame:1827
+Size: 6504 ,Base: 34240 , Ratio: 2.37 %
+
+Frame:1900
+Size: 10512 ,Base: 34240 , Ratio: 3.84 %
+
+Frame:2418
+Size: 5408 ,Base: 34240 , Ratio: 1.97 %
+
+Frame:2500
+Size: 7056 ,Base: 34240 , Ratio: 2.58 %
+
+Frame:3436
+Size: 7496 ,Base: 34240 , Ratio: 2.74 %
+
+Frame:4930
+Size: 5544 ,Base: 34240 , Ratio: 2.02 %
+
+Frame:5464
+Size: 4232 ,Base: 34240 , Ratio: 1.54 %
+
+Frame:5957
+Size: 4024 ,Base: 34240 , Ratio: 1.47 %
+
+Frame:6285
+Size: 5520 ,Base: 34240 , Ratio: 2.02 %
+
+Frame:1577
+Size: 9192 ,Base: 34240 , Ratio: 3.36 %
+
+Frame:0001
+Size: 8 ,Base: 34240 , Ratio: 0.00 %
