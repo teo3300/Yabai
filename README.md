@@ -7,7 +7,7 @@ An uninviting multiethnic dish.
 Too lazy to add some example sorry
 
 ## 00.0 Get the video
-Our journey begins (with a candy raver) finding some sort of video file from the magic Internet (better if black and white, and I mean ONLY black and white, no greyscale, cause I'm lazy and not aple to implement a better method to compress the video, shut up, I'm not some [smartass guy](https://github.com/PeterLemon/GBA/tree/master/Video/Touhou-BadApple!) I don't wanna reinvent LZW, p.s. GUESS WHAT)
+Our journey begins (with a candy raver) finding some sort of video file from the magic Internet (better if black and white, and I mean ONLY black and white, no grayscale, cause I'm lazy and not able to implement a better method to compress the video, shut up, I'm not some [smartass guy](https://github.com/PeterLemon/GBA/tree/master/Video/Touhou-BadApple!) I don't wanna reinvent LZW, p.s. GUESS WHAT)
 
 ## 01.0 Export video frames
 Thank you VLC!
@@ -24,7 +24,7 @@ Aaaand... that's how not to reinvent run-length encoding, I do know... BUT I DID
 Just testing frame rendering on my PC before yeeting everyting in a GBA program
 
 ## 04.0 BAE Join
-Combine all compressed frames in a single big file of around 3MB (I also made a larger file, a little bigger, that is a C array of the data... did I already mention that I've no idea what I'm doing?)
+Combine all compressed frames in a single big file of around 3MB (I also made a larger file, a little bigger, that is a C array of the data... did I already mention that I've no idea of what I'm doing?)
 
 ## 05.0 Finally some real code
 Fuck you python
