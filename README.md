@@ -20,7 +20,7 @@ During the process I discovered I'm dumb but not enough to need to reduce the fr
 ~~Binary alternation~~ Bad apple encoding: you know, if the only colors you see ar Black and White either you are colorblind or you are me when I'm lazy (if everything is just black you are probably blind, period).
 Aaaand... that's how not to reinvent run-length encoding, I do know... BUT I DIDN'T.
 
-## 00.5 BAE Render
+## 03.5 BAE Render
 Just testing frame rendering on my PC before yeeting everyting in a GBA program
 
 ## 04.0 BAE Join
